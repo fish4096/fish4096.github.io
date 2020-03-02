@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-02T13:11:50.536Z</updated>
+  <updated>2020-03-02T13:49:47.891Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，Hexo Blog</title>
+    <link href="http://yoursite.com/2020/03/02/%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo-Blog/"/>
+    <id>http://yoursite.com/2020/03/02/%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo-Blog/</id>
+    <published>2020-03-02T13:49:11.000Z</published>
+    <updated>2020-03-02T13:49:47.891Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hello-My-First-Blog！"><a href="#Hello-My-First-Blog！" class="headerlink" title="Hello My First Blog！"></a>Hello My First Blog！</h1><p>我是临渊鱼，是一条普普通通的咸鱼。</p><p>很高兴经过一番折腾，能用上Github Pages + Hexo搭建出自己的第一个博客。</p><p>正如本博客的subtitle：记录想法，我希望能将日常生活中有趣的创意筛选出来，记录在这里并分享给各位。</p><p>代码托管式的博客使用不熟，博客哪里不对可以指正，以便我做得更好。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Hello-My-First-Blog！&quot;&gt;&lt;a href=&quot;#Hello-My-First-Blog！&quot; class=&quot;headerlink&quot; title=&quot;Hello My First Blog！&quot;&gt;&lt;/a&gt;Hello My First Blog！&lt;/h1&gt;&lt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello My First Blog</title>
