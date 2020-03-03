@@ -1,32 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>coding博客域名申请证书失败</title>
-    <url>/2020/03/03/coding-ssl-problem/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>上文发布了关于如何双线部署hexo的教程，但是在部署</p>
-]]></content>
-      <categories>
-        <category>踩坑</category>
-      </categories>
-      <tags>
-        <tag>coding</tag>
-        <tag>踩坑，hexo</tag>
-        <tag>ssl</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo绑定自己的域名</title>
-    <url>/2020/03/03/hexo-domain/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>域名绑定</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>github和coding双线部署静态博客</title>
     <url>/2020/03/03/git-github-coding/</url>
     <content><![CDATA[<p>听朋友说国内coding的速度差不多是github的两倍，而且更新成为团队版本后静态页面没了广告。</p>
