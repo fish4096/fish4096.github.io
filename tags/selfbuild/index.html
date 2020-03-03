@@ -23,7 +23,7 @@
   <meta name="description" content="其实我们一模一样，无名却充满莫名渴望">
 <meta property="og:type" content="website">
 <meta property="og:title" content="临渊鱼的博客">
-<meta property="og:url" content="http://fish4096.com/tags/%E8%87%AA%E5%BB%BA/index.html">
+<meta property="og:url" content="http://fish4096.com/tags/selfbuild/index.html">
 <meta property="og:site_name" content="临渊鱼的博客">
 <meta property="og:description" content="其实我们一模一样，无名却充满莫名渴望">
 <meta property="og:locale" content="zh_CN">
@@ -34,7 +34,7 @@
 <meta property="article:tag" content="hexo">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="http://fish4096.com/tags/%E8%87%AA%E5%BB%BA/">
+<link rel="canonical" href="http://fish4096.com/tags/selfbuild/">
 
 
 <script id="page-configurations">
@@ -340,7 +340,7 @@
   &copy; 
   <span itemprop="copyrightYear">2020</span>
   <span class="with-love">
-    <i class="fa fa-user"></i>
+    <i class="fa fa-heart"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">fish4096</span>
 </div>
@@ -401,6 +401,16 @@
   
 
   
+  <script src="//cdn.jsdelivr.net/npm/quicklink@1/dist/quicklink.umd.js"></script>
+  <script>
+      window.addEventListener('load', () => {
+      quicklink({
+        timeout : 3000,
+        priority: true,
+        ignores : [uri => uri.includes('#'),uri => uri == 'http://fish4096.com/tags/selfbuild/',]
+      });
+      });
+  </script>
 
 </body>
 </html>
