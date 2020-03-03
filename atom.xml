@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-02T15:09:26.195Z</updated>
+  <updated>2020-03-03T09:10:18.879Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,86 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>coding博客域名申请证书失败</title>
+    <link href="http://yoursite.com/2020/03/03/coding-ssl-problem/"/>
+    <id>http://yoursite.com/2020/03/03/coding-ssl-problem/</id>
+    <published>2020-03-03T09:09:01.000Z</published>
+    <updated>2020-03-03T09:10:18.879Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="踩坑" scheme="http://yoursite.com/categories/%E8%B8%A9%E5%9D%91/"/>
+    
+    
+      <category term="coding" scheme="http://yoursite.com/tags/coding/"/>
+    
+      <category term="踩坑，hexo" scheme="http://yoursite.com/tags/%E8%B8%A9%E5%9D%91%EF%BC%8Chexo/"/>
+    
+      <category term="ssl" scheme="http://yoursite.com/tags/ssl/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo绑定自己的域名</title>
+    <link href="http://yoursite.com/2020/03/03/hexo-domain/"/>
+    <id>http://yoursite.com/2020/03/03/hexo-domain/</id>
+    <published>2020-03-03T09:05:24.000Z</published>
+    <updated>2020-03-03T09:10:19.788Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="域名绑定" scheme="http://yoursite.com/tags/%E5%9F%9F%E5%90%8D%E7%BB%91%E5%AE%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>github和coding双线部署静态博客</title>
+    <link href="http://yoursite.com/2020/03/03/git-github-coding/"/>
+    <id>http://yoursite.com/2020/03/03/git-github-coding/</id>
+    <published>2020-03-03T08:14:32.000Z</published>
+    <updated>2020-03-03T10:15:19.392Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;听朋友说国内coding的速度差不多是github的两倍，而且更新成为团队版本后静态页面没了广告。&lt;/p&gt;
+&lt;p&gt;本着访问速度是第一位重要的原则，本咸鱼就在github配置完成的基础上进行了双线部署。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="coding" scheme="http://yoursite.com/tags/coding/"/>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+      <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>你好，Hexo Blog</title>

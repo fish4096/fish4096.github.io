@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>coding博客域名申请证书失败</title>
+    <url>/2020/03/03/coding-ssl-problem/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>上文发布了关于如何双线部署hexo的教程，但是在部署</p>
+]]></content>
+      <categories>
+        <category>踩坑</category>
+      </categories>
+      <tags>
+        <tag>coding</tag>
+        <tag>踩坑，hexo</tag>
+        <tag>ssl</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo绑定自己的域名</title>
+    <url>/2020/03/03/hexo-domain/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>域名绑定</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>github和coding双线部署静态博客</title>
+    <url>/2020/03/03/git-github-coding/</url>
+    <content><![CDATA[<p>听朋友说国内coding的速度差不多是github的两倍，而且更新成为团队版本后静态页面没了广告。</p>
+<p>本着访问速度是第一位重要的原则，本咸鱼就在github配置完成的基础上进行了双线部署。</p>
+<a id="more"></a>
+
+<blockquote>
+<p>注意：本文适合已经搭建了本地环境并在github部署好博客的同学食用，没有基础的朋友请使用搜索引擎学习。</p>
+</blockquote>
+<h2 id="coding账户的配置"><a href="#coding账户的配置" class="headerlink" title="coding账户的配置"></a>coding账户的配置</h2><p>首先去官网注册个账号: <a href="https://coding.net/" target="_blank" rel="noopener">coding</a></p>
+<h3 id="添加ssh公钥"><a href="#添加ssh公钥" class="headerlink" title="添加ssh公钥"></a>添加ssh公钥</h3><p><img src="http://fish4096.test.upcdn.net/blog/img/git-github-coding/%E6%B7%BB%E5%8A%A0%E5%85%AC%E9%92%A5-1.jpg" alt="添加公钥-1"></p>
+<p>记得勾选永久有效</p>
+<p><img src="http://fish4096.test.upcdn.net/blog/img/git-github-coding/%E6%B7%BB%E5%8A%A0%E5%85%AC%E9%92%A5-2.jpg" alt="添加公钥-2"></p>
+<h3 id="创建静态网站"><a href="#创建静态网站" class="headerlink" title="创建静态网站"></a>创建静态网站</h3><p>选择创建项目，这里需要选择第三个类型，否则无法使用静态网站功能</p>
+<p><img src="http://fish4096.test.upcdn.net/blog/img/git-github-coding/%E9%80%89%E6%8B%A9%E9%A1%B9%E7%9B%AE%E7%B1%BB%E5%9E%8B.jpg" alt="选择项目类型"></p>
+<p>简单地填一下信息即可创建</p>
+<p><img src="http://fish4096.test.upcdn.net/blog/img/git-github-coding/%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE.jpg" alt="创建项目"></p>
+<p>然后我们就可以获取仓库的git地址了</p>
+<p><img src="http://fish4096.test.upcdn.net/blog/img/git-github-coding/%E8%8E%B7%E5%8F%96repo.jpg" alt="获取repo"></p>
+<h2 id="本地Hexo设置"><a href="#本地Hexo设置" class="headerlink" title="本地Hexo设置"></a>本地Hexo设置</h2><h3 id="添加repo"><a href="#添加repo" class="headerlink" title="添加repo"></a>添加repo</h3><p>打开根目录的_config.yml文件，在底部修改repo配置</p>
+<p><img src="http://fish4096.test.upcdn.net/blog/img/git-github-coding/%E6%B7%BB%E5%8A%A0repo.jpg" alt="添加repo"></p>
+<h3 id="推送至coding仓库"><a href="#推送至coding仓库" class="headerlink" title="推送至coding仓库"></a>推送至coding仓库</h3><p>在博客文件夹根目录右键打开git命令行，输入<code>hexo d</code>推送网站，会要求输入coding的账号密码，账号是注册的邮箱。</p>
+<h2 id="部署博客"><a href="#部署博客" class="headerlink" title="部署博客"></a>部署博客</h2><p>返回coding，进行博客的部署</p>
+<p><img src="http://fish4096.test.upcdn.net/blog/img/git-github-coding/%E7%AB%8B%E5%8D%B3%E9%83%A8%E7%BD%B2.jpg" alt="立即部署"></p>
+<p>到这里，就可以通过coding提供的访问地址访问博客了</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>coding</tag>
+        <tag>github</tag>
+        <tag>git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>你好，Hexo Blog</title>
     <url>/2020/03/02/Hello-My-First-Blog/</url>
     <content><![CDATA[<h1 id="Hello-My-First-Blog！"><a href="#Hello-My-First-Blog！" class="headerlink" title="Hello My First Blog！"></a>Hello My First Blog！</h1><p>我是临渊鱼，是一条普普通通的咸鱼。</p>
